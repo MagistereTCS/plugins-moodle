@@ -1,7 +1,6 @@
 Format thématique M@gistere 
 ============================
-Version modifiée du format thématique ajouté par défaut sur Moodle.
-Liste des modifications :
+Version modifiée du format thématique ajouté par défaut sur Moodle. Liste des modifications :
 * Seul le nombre de sections n'est proposé dans les paramètres spécifiques lors de la création d'un parcours.
 * Le parcours est présenté selon le paramètre "Afficher une section par page« du format thématique standard.
 * Les utilisateurs arrivent sur le parcours par la section1 et non pas sur la section 0. (c’est-à-dire que si aucune section n'est spécifiée, on redirige vers la section1.) 
@@ -13,7 +12,7 @@ Liste des modifications :
 
 Installation
 ============
-1. Vérifiez que vous avez la bonne version de Moodle. Une autre version de moodle peut entraîner des comportements indésirables.
+1. Vérifiez que vous avez le bonne version de Moodle. Une autre version de moodle peut entraîner des comportements indésirables.
 2. Passez Moodle en 'Maintenance Mode' (https://docs.moodle.org/35/en/Maintenance_mode)
 3. Copiez le dossier 'magistere_topics' dans '/course/format/'.
 4. [OPTIONNEL] Pour activer la fonctionnalité de restriction d'un bloc à une section, suivez les indications du chapitre suivant
